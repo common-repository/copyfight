@@ -1,0 +1,432 @@
+# Translation of Development (trunk) in Dutch
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Copyfight\n"
+"POT-Creation-Date: 2016-06-18 10:25+0200\n"
+"PO-Revision-Date: 2016-06-18 10:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: Copyfight <info@getcopyfight.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;_n;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: class.copyfight-admin.php:50
+msgid "Error: empty API Key field"
+msgstr "錯誤：沒有填寫API密碼"
+
+#: class.copyfight-admin.php:101 class.copyfight-admin.php:196
+#: class.copyfight-admin.php:557 views/config.php:45
+msgid "Settings"
+msgstr "設置"
+
+#: class.copyfight-admin.php:136
+msgid "A Copyfight error has occurred, your article is not protected."
+msgstr "發現Copyfight錯誤,你的文章是不受保護的。"
+
+#: class.copyfight-admin.php:189
+msgid "Post"
+msgid_plural "Posts"
+msgstr[0] "信息"
+msgstr[1] "信息"
+
+#: class.copyfight-admin.php:190
+msgid "Page"
+msgid_plural "Pages"
+msgstr[0] "頁"
+msgstr[1] "頁"
+
+#: class.copyfight-admin.php:191
+msgid "Character"
+msgid_plural "Characters"
+msgstr[0] "字符"
+msgstr[1] "字符"
+
+#: class.copyfight-admin.php:192
+msgid "Word"
+msgid_plural "Words"
+msgstr[0] "字"
+msgstr[1] "字"
+
+#: class.copyfight-admin.php:197 views/config.php:341
+msgid "Widget"
+msgstr "小工具"
+
+#: class.copyfight-admin.php:292 class.copyfight-admin.php:310
+#: class.copyfight-admin.php:326 views/config.php:63 views/config.php:82
+#: views/config.php:101 views/config.php:159 views/config.php:178
+#: views/config.php:197 views/config.php:216 views/config.php:252
+#: views/config.php:271 views/config.php:290 views/config.php:309
+#: views/config.php:358 views/config.php:390
+msgid "Enabled"
+msgstr "啟用"
+
+#: class.copyfight-admin.php:292 class.copyfight-admin.php:310
+#: class.copyfight-admin.php:326 views/config.php:62 views/config.php:81
+#: views/config.php:100 views/config.php:158 views/config.php:177
+#: views/config.php:196 views/config.php:215 views/config.php:251
+#: views/config.php:270 views/config.php:289 views/config.php:308
+#: views/config.php:357 views/config.php:389
+msgid "Disabled"
+msgstr "已禁用"
+
+#: class.copyfight-admin.php:294 class.copyfight-admin.php:573
+msgid "Status"
+msgstr "狀態"
+
+#: class.copyfight-admin.php:312
+msgid "Tags"
+msgstr "標籤"
+
+#: class.copyfight-admin.php:328
+msgid "Blur"
+msgstr "模"
+
+#: class.copyfight-admin.php:530 class.copyfight-admin.php:662
+#: class.copyfight-admin.php:679
+msgid "A Copyfight error has occurred..."
+msgstr "發現Copyfight錯誤…"
+
+#: class.copyfight-admin.php:531 class.copyfight-admin.php:663
+#: class.copyfight-admin.php:680
+msgid "Click here to try again..."
+msgstr "點擊這裡再試一次…"
+
+#: class.copyfight-admin.php:547
+msgid "Overview"
+msgstr "概覽"
+
+#: class.copyfight-admin.php:549
+msgid "Copyfight Overview"
+msgstr "Copyfight概覽"
+
+#: class.copyfight-admin.php:550
+msgid ""
+"Copyfight protects your content, so you can focus on more important things."
+msgstr "Copyfight保護您的內容，這樣你就可以專注於更重要的事情。"
+
+#: class.copyfight-admin.php:551
+msgid ""
+"On this page, you are able to enter/remove an API key, view account "
+"information and view stats."
+msgstr "在這個頁面,你可以輸入/刪除API密碼,查看帳戶信息和統計數據。"
+
+#: class.copyfight-admin.php:559
+msgid "Copyfight Settings"
+msgstr "Copyfight設置"
+
+#: class.copyfight-admin.php:560 views/config.php:22
+msgid "API Key"
+msgstr "API密碼"
+
+#: class.copyfight-admin.php:560
+msgid "Enter/remove an API key."
+msgstr "輸入/刪除API密碼"
+
+#: class.copyfight-admin.php:561 views/config.php:49
+msgid "Default settings"
+msgstr "默認設置"
+
+#: class.copyfight-admin.php:561
+msgid "Edit your default settings."
+msgstr "編輯您的默認設置。"
+
+#: class.copyfight-admin.php:562 views/config.php:145
+msgid "General settings"
+msgstr "常規設置"
+
+#: class.copyfight-admin.php:562
+msgid "Edit your general settings."
+msgstr "編輯您的常規設置"
+
+#: class.copyfight-admin.php:563 views/config.php:338
+msgid "Other settings"
+msgstr "其他設置"
+
+#: class.copyfight-admin.php:563
+msgid "Edit your other settings."
+msgstr "編輯您的其他設置"
+
+#: class.copyfight-admin.php:569
+msgid "Account"
+msgstr "帳戶"
+
+#: class.copyfight-admin.php:571
+msgid "Copyfight Account"
+msgstr "Copyfight帳戶"
+
+#: class.copyfight-admin.php:572
+msgid "Subscription Type"
+msgstr "訂閱類型"
+
+#: class.copyfight-admin.php:572
+msgid "The Copyfight subscription plan"
+msgstr "Copyfight訂閱計劃"
+
+#: class.copyfight-admin.php:573
+msgid "The subscription status - active, cancelled or suspended"
+msgstr "訂閱狀態 - 啟動，取消或暫停"
+
+#: class.copyfight-admin.php:577
+msgid "For more information:"
+msgstr "欲了解更多信息："
+
+#: class.copyfight-admin.php:578
+msgid "Copyfight FAQ"
+msgstr "Copyfight常見問題解答"
+
+#: class.copyfight-admin.php:579
+msgid "Copyfight Support"
+msgstr "Copyfight支持"
+
+#: class.copyfight.php:171 class.copyfight.php:256 class.copyfight.php:265
+msgid ""
+"There is no content because this is a <a target=\"_blank\" href=\"https://"
+"getcopyfight.com/\">Copyfight</a> protected article."
+msgstr ""
+"沒有內容，因為這是<a target=\"_blank\"href=\"https://getcopyfight.com/\"> "
+"Copyfight</a>一篇保護的文章。"
+
+#: class.copyfight.php:183 class.copyfight.php:232 widgets.php:23
+#: widgets.php:41
+msgid "Protected by Copyfight"
+msgstr "Copyfight保護"
+
+#: views/config.php:4
+msgid "Service disruption"
+msgstr "服務中斷"
+
+#: views/config.php:7
+msgid "Service is operating normally"
+msgstr "服務運行正常"
+
+#: views/config.php:15
+msgid "Version"
+msgstr "版本"
+
+#: views/config.php:25
+msgid "API Status"
+msgstr "API狀態"
+
+#: views/config.php:31
+msgid "Enter your email"
+msgstr "輸入你的電子郵箱"
+
+#: views/config.php:32
+msgid "Activate Copyfight"
+msgstr "激活Copyfight"
+
+#: views/config.php:33
+msgid "Enter your email address or API Key if you have one"
+msgstr "輸入你的電子郵件地址或API密碼"
+
+#: views/config.php:36
+msgid "Receive email updates about Copyfight"
+msgstr "接收有關Copyfight的更新電子郵件"
+
+#: views/config.php:40
+msgid "Reset API Key"
+msgstr "重置API密碼"
+
+#: views/config.php:46
+msgid ""
+"These settings are triggered right after a post or page has been saved. This "
+"means your posts might not have been protected, yet. Manually save your "
+"individual posts and pages first."
+msgstr ""
+"這些設置在訊息或頁面被保存之後觸發。這意味著你的訊息可能不被保護。請手動保存"
+"你個人訊息和網頁。"
+
+#: views/config.php:52 views/config.php:65
+msgid "Default status"
+msgstr "默認狀態"
+
+#: views/config.php:71 views/config.php:84
+msgid "Default tags"
+msgstr "默認標籤"
+
+#: views/config.php:90 views/config.php:103
+msgid "Default blur"
+msgstr "默認模"
+
+#: views/config.php:109 views/config.php:133
+msgid "Typeface"
+msgstr "字體"
+
+#: views/config.php:142
+msgid "These settings have an immediate effect on your content."
+msgstr "這些設置會對內容產生立竿見影的效果。"
+
+#: views/config.php:148 views/config.php:161
+msgid "Content Delivery Network"
+msgstr "內容分發網絡"
+
+#: views/config.php:167 views/config.php:180
+msgid "Use excerpt"
+msgstr "使用摘錄"
+
+#: views/config.php:186
+msgid "FOUC Protection"
+msgstr "FOUC防護"
+
+#: views/config.php:186
+msgid "(Flash Of Unstyled Content)"
+msgstr "（無樣式內容的閃現）"
+
+#: views/config.php:205 views/config.php:235
+msgid "Text selection"
+msgstr "選擇文本"
+
+#: views/config.php:218
+msgid "Length"
+msgstr "截"
+
+#: views/config.php:241 views/config.php:254
+msgid "Search Engine Visibility"
+msgstr "搜索引擎可見性"
+
+#: views/config.php:260 views/config.php:273
+msgid "Right click"
+msgstr "右鍵點擊"
+
+#: views/config.php:279 views/config.php:292
+msgid "Print"
+msgstr "刊"
+
+#: views/config.php:298 views/config.php:311
+msgid "Printscreen"
+msgstr ""
+
+#: views/config.php:317 views/config.php:327
+msgid "Copyright notice"
+msgstr "Copyright 聲明"
+
+#: views/config.php:343
+msgid "Widget settings"
+msgstr "小工具設定"
+
+#: views/config.php:343
+msgid "Click here"
+msgstr "點擊這裡"
+
+#: views/config.php:343
+msgid "to add and edit the Copyfight widget settings."
+msgstr "添加和編輯的Copyright小工具設置。"
+
+#: views/config.php:347 views/config.php:360
+msgid "Debugging"
+msgstr "調試"
+
+#: views/config.php:379 views/config.php:392
+msgid "Console"
+msgstr ""
+
+#: views/notice.php:9
+msgid ""
+"<strong>Almost done</strong> - activate Copyfight and protect your content"
+msgstr "<STRONG>幾乎完成</ strong> - 激活Copyfight和保護您的內容"
+
+#: views/plans.php:3
+msgid "Subscription plans"
+msgstr "訂閱計劃"
+
+#: views/plans.php:41
+msgid ""
+"Our <a href=\"https://getcopyfight.com/fair-use-policy/\" target=\"_blank"
+"\">Fair Use Policy</a> applies to all promos and subscription plans."
+msgstr ""
+"我們的<a href=\"https://getcopyfight.com/fair-use-policy/\" target=\"_blank"
+"\">公平使用政策</a>適用於所有的促銷和訂閱計劃。"
+
+#: widgets.php:14
+msgid "Widget for Copyfight."
+msgstr "Copyright小工具"
+
+#: widgets.php:47
+msgid "Title:"
+msgstr "標題："
+
+#: widgets.php:52
+msgid "Logo:"
+msgstr "標誌："
+
+#: widgets.php:54
+msgid "Color"
+msgstr "顏色"
+
+#: widgets.php:55
+msgid "Dark"
+msgstr "暗"
+
+#: widgets.php:56
+msgid "Light"
+msgstr "亮"
+
+#~ msgid "Copyfight prevented copying this content."
+#~ msgstr "Copyfight防止複製此內容。"
+
+#~ msgid "Disable right click"
+#~ msgstr "Uitschakelen rechtermuisknop"
+
+#~ msgid "Copyfight"
+#~ msgstr "Copyfight"
+
+#~ msgid "Copyfight Configuration"
+#~ msgstr "Copyfight Configuratie"
+
+#~ msgid "%s Post"
+#~ msgstr "%s Bericht"
+
+#~ msgid ""
+#~ "These settings are triggered right after a post or page has been saved. "
+#~ "This means your posts have not been protected, yet. Manually save your "
+#~ "individual posts and pages first."
+#~ msgstr ""
+#~ "Deze instellingen worden geactiveerd direct nadat een post of pagina is "
+#~ "opgeslagen. Dit betekent dat uw berichten niet zijn beschermd, nog niet. "
+#~ "Bewaar eerst handmatig uw individuele berichten en pagina's."
+
+#~ msgid "Appreciate our work? Please consider making a donation."
+#~ msgstr "Waardeer je ons werk? Overweeg een donatie."
+
+#~ msgid "USD"
+#~ msgstr "USD"
+
+#~ msgid "Widget for Copyfight"
+#~ msgstr "Widget voor Copyfight"
+
+#~ msgid ""
+#~ "There is no content copied because this is a Copyfight protected article."
+#~ msgstr ""
+#~ "Er is geen inhoud gekopieerd, want dit is een Copyfight beschermd artikel."
+
+#~ msgid "A Copyfight error has occurred... "
+#~ msgstr "Er is een Copyfight fout opgetreden..."
+
+#~ msgid ""
+#~ "There is no content copied because this is a Copyfight protected post."
+#~ msgstr ""
+#~ "Er is geen inhoud gekopieerd omdat dit een Copyfight beschermd bericht is."
+
+#~ msgid ""
+#~ "There is no content because this is a <a target=\"_blank\" href=\"https://"
+#~ "getcopyfight.com/\">Copyfight</a> protected post."
+#~ msgstr ""
+#~ "Er is geen inhoud gekopieerd omdat dit een <a target=\"_blank\" href="
+#~ "\"https://getcopyfight.com/\">Copyfight</a> beschermd bericht is."
+
+#~ msgid "Activate your Copyfight account"
+#~ msgstr "Activeer jouw Copyfight account"
+
+#~ msgid "Manually enter your API key or enter your email"
+#~ msgstr "Voer jouw API sleutel of email adres in"
+
+#~ msgid "Default typeface"
+#~ msgstr "Standaard lettertype"

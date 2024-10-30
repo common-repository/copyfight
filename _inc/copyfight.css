@@ -1,0 +1,94 @@
+.copyfight_select {
+    -webkit-touch-callout: none !important; /* iOS Safari */
+    -webkit-user-select: none !important;   /* Chrome/Safari/Opera */
+    -moz-user-select: none !important;      /* Firefox */
+    -ms-user-select: none !important;       /* IE/Edge */
+    user-select: none !important;           /* non-prefixed version, currently not supported by any browser */
+    cursor: default !important;
+}
+
+.copyfight_content, .copyfight_content h1, .copyfight_content h2, .copyfight_content h3, .copyfight_content h4,
+.copyfight_content h5, .copyfight_content h6, .copyfight_content p, .copyfight_content blockquote,
+.copyfight_content pre, .copyfight_content a, .copyfight_content abbr, .copyfight_content acronym,
+.copyfight_content address, .copyfight_content big, .copyfight_content cite, .copyfight_content code, del,
+.copyfight_content dfn, .copyfight_content em, .copyfight_content font, .copyfight_content ins, .copyfight_content q,
+.copyfight_content s, .copyfight_content samp, small, .copyfight_content strike, .copyfight_content strong,
+.copyfight_content sub, .copyfight_content sup, .copyfight_content tt, .copyfight_content var, dl,
+.copyfight_content dt, .copyfight_content dd, .copyfight_content ol, .copyfight_content ul, .copyfight_content li,
+.copyfight_content fieldset, .copyfight_content form, .copyfight_content label, .copyfight_content legend,
+.copyfight_content table, .copyfight_content caption, .copyfight_content tbody, .copyfight_content tfoot,
+.copyfight_content thead, .copyfight_content tr, .copyfight_content th, .copyfight_content td {
+    font-family: 'copyfight' !important;
+    font-feature-settings: "kern" on, "liga" on, "calt" on !important;
+    -moz-font-feature-settings: "kern" on, "liga" on, "calt" on !important;
+    -webkit-font-feature-settings: "kern" on, "liga" on, "calt" on !important;
+    -ms-font-feature-settings: "kern" on, "liga" on, "calt" on !important;
+    -o-font-feature-settings: "kern" on, "liga" on, "calt" on !important;
+    text-rendering: optimizeLegibility !important;
+    speak: none;
+}
+
+.copyfight_content .copyfight_blurred_lines {
+    color: transparent;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#copyfight_notice {
+    width: 100%;
+    margin: 1em 0;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border: none;
+}
+
+#copyright_notice {
+    padding-top: 1em;
+}
+
+.copyfight_excerpt {
+    padding-bottom: 1em;
+    font-weight: bold;
+}
+
+#copyfight_certificate {
+    width: 100%;
+    max-width: 792px;
+    height: 612px;
+    margin-bottom: 2em;
+    -webkit-box-shadow: 0px 4px 20px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0px 4px 20px 0px rgba(0,0,0,0.25);
+    box-shadow: 0px 4px 20px 0px rgba(0,0,0,0.25);
+}
+
+#copyfight_certificate .background.one,
+#copyfight_certificate .background.two,
+#copyfight_certificate .background.three,
+#copyfight_certificate .background.four {
+    float: left;
+    width: 50%;
+    height: 50%;
+    background-image: url("img/certificate-background.png");
+    background-repeat: no-repeat;
+}
+
+#copyfight_certificate .background.two {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+#copyfight_certificate .background.three {
+    -moz-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+}
+
+#copyfight_certificate .background.four {
+    -moz-transform: scale(-1, -1);
+    -o-transform: scale(-1, -1);
+    -webkit-transform: scale(-1, -1);
+    transform: scale(-1, -1);
+}

@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Copyfight\n"
+"POT-Creation-Date: 2016-06-18 10:25+0200\n"
+"PO-Revision-Date: 2016-06-18 10:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: Copyfight <info@copyfight.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: _e;__;_n;esc_html__;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: class.copyfight-admin.php:50
+msgid "Error: empty API Key field"
+msgstr "Error: API vacío campo Clave"
+
+#: class.copyfight-admin.php:101 class.copyfight-admin.php:196
+#: class.copyfight-admin.php:557 views/config.php:45
+msgid "Settings"
+msgstr "Ajustes"
+
+#: class.copyfight-admin.php:136
+msgid "A Copyfight error has occurred, your article is not protected."
+msgstr ""
+"Se ha producido un error de Derecho de Autor, el artículo no está protegido."
+
+#: class.copyfight-admin.php:189
+msgid "Post"
+msgid_plural "Posts"
+msgstr[0] "entrada"
+msgstr[1] "entradas"
+
+#: class.copyfight-admin.php:190
+msgid "Page"
+msgid_plural "Pages"
+msgstr[0] "página"
+msgstr[1] "páginas"
+
+#: class.copyfight-admin.php:191
+msgid "Character"
+msgid_plural "Characters"
+msgstr[0] "carácter"
+msgstr[1] "caracteres"
+
+#: class.copyfight-admin.php:192
+msgid "Word"
+msgid_plural "Words"
+msgstr[0] "palabra"
+msgstr[1] "palabras"
+
+#: class.copyfight-admin.php:197 views/config.php:341
+msgid "Widget"
+msgstr ""
+
+#: class.copyfight-admin.php:292 class.copyfight-admin.php:310
+#: class.copyfight-admin.php:326 views/config.php:63 views/config.php:82
+#: views/config.php:101 views/config.php:159 views/config.php:178
+#: views/config.php:197 views/config.php:216 views/config.php:252
+#: views/config.php:271 views/config.php:290 views/config.php:309
+#: views/config.php:358 views/config.php:390
+msgid "Enabled"
+msgstr "Enciende"
+
+#: class.copyfight-admin.php:292 class.copyfight-admin.php:310
+#: class.copyfight-admin.php:326 views/config.php:62 views/config.php:81
+#: views/config.php:100 views/config.php:158 views/config.php:177
+#: views/config.php:196 views/config.php:215 views/config.php:251
+#: views/config.php:270 views/config.php:289 views/config.php:308
+#: views/config.php:357 views/config.php:389
+msgid "Disabled"
+msgstr "Apagar"
+
+#: class.copyfight-admin.php:294 class.copyfight-admin.php:573
+msgid "Status"
+msgstr "Estado"
+
+#: class.copyfight-admin.php:312
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: class.copyfight-admin.php:328
+msgid "Blur"
+msgstr "Difuminar"
+
+#: class.copyfight-admin.php:530 class.copyfight-admin.php:662
+#: class.copyfight-admin.php:679
+msgid "A Copyfight error has occurred..."
+msgstr "Se ha producido un error de Copyfight..."
+
+#: class.copyfight-admin.php:531 class.copyfight-admin.php:663
+#: class.copyfight-admin.php:680
+msgid "Click here to try again..."
+msgstr "Haga clic aquí para volver a intentarlo..."
+
+#: class.copyfight-admin.php:547
+msgid "Overview"
+msgstr "Visión de conjunto"
+
+#: class.copyfight-admin.php:549
+msgid "Copyfight Overview"
+msgstr "Descripción general de Overview"
+
+#: class.copyfight-admin.php:550
+msgid ""
+"Copyfight protects your content, so you can focus on more important things."
+msgstr ""
+"Copyfight protege su contenido, para que pueda centrarse en cosas más "
+"importantes."
+
+#: class.copyfight-admin.php:551
+msgid ""
+"On this page, you are able to enter/remove an API key, view account "
+"information and view stats."
+msgstr ""
+"En esta página, usted es capaz de introducir / eliminar una clave de API, "
+"ver la información de la cuenta y ver las estadísticas."
+
+#: class.copyfight-admin.php:559
+msgid "Copyfight Settings"
+msgstr "Ajustes Copyfight"
+
+#: class.copyfight-admin.php:560 views/config.php:22
+msgid "API Key"
+msgstr "API Clave"
+
+#: class.copyfight-admin.php:560
+msgid "Enter/remove an API key."
+msgstr "Introducir/eliminar una clave de API."
+
+#: class.copyfight-admin.php:561 views/config.php:49
+msgid "Default settings"
+msgstr "Configuración por defecto"
+
+#: class.copyfight-admin.php:561
+msgid "Edit your default settings."
+msgstr "Editar la configuración por defecto."
+
+#: class.copyfight-admin.php:562 views/config.php:145
+msgid "General settings"
+msgstr "Configuración general"
+
+#: class.copyfight-admin.php:562
+msgid "Edit your general settings."
+msgstr "Editar la configuración general."
+
+#: class.copyfight-admin.php:563 views/config.php:338
+msgid "Other settings"
+msgstr "Otros ajustes"
+
+#: class.copyfight-admin.php:563
+msgid "Edit your other settings."
+msgstr "Editar otros ajustes."
+
+#: class.copyfight-admin.php:569
+msgid "Account"
+msgstr "Cuenta"
+
+#: class.copyfight-admin.php:571
+msgid "Copyfight Account"
+msgstr "Cuenta de Copyfight"
+
+#: class.copyfight-admin.php:572
+msgid "Subscription Type"
+msgstr "Tipo de suscripción"
+
+#: class.copyfight-admin.php:572
+msgid "The Copyfight subscription plan"
+msgstr "El plan de suscripción Copyfight"
+
+#: class.copyfight-admin.php:573
+msgid "The subscription status - active, cancelled or suspended"
+msgstr "El estado de suscripción - activo, cancelado o suspendido"
+
+#: class.copyfight-admin.php:577
+msgid "For more information:"
+msgstr "Para más información:"
+
+#: class.copyfight-admin.php:578
+msgid "Copyfight FAQ"
+msgstr "Copyfight FAQ"
+
+#: class.copyfight-admin.php:579
+msgid "Copyfight Support"
+msgstr "Soporte Copyfight"
+
+#: class.copyfight.php:171 class.copyfight.php:256 class.copyfight.php:265
+msgid ""
+"There is no content because this is a <a target=\"_blank\" href=\"https://"
+"getcopyfight.com/\">Copyfight</a> protected article."
+msgstr ""
+"No hay contenido copiado porque se trata de un artículo protegido por <a "
+"target=\"_blank\" href=\"https://getcopyfight.com/\">Copyfight</a>."
+
+#: class.copyfight.php:183 class.copyfight.php:232 widgets.php:23
+#: widgets.php:41
+msgid "Protected by Copyfight"
+msgstr "Protegido por Copyfight"
+
+#: views/config.php:4
+msgid "Service disruption"
+msgstr "Interrupción del servicio"
+
+#: views/config.php:7
+msgid "Service is operating normally"
+msgstr "Servicio está funcionando normalmente"
+
+#: views/config.php:15
+msgid "Version"
+msgstr "Versión"
+
+#: views/config.php:25
+msgid "API Status"
+msgstr "Estado del API"
+
+#: views/config.php:31
+msgid "Enter your email"
+msgstr "Introduce tu correo electrónico"
+
+#: views/config.php:32
+msgid "Activate Copyfight"
+msgstr "Activar Copyfight"
+
+#: views/config.php:33
+msgid "Enter your email address or API Key if you have one"
+msgstr ""
+"Introduzca su dirección de correo electrónico o clave de la API si tiene uno"
+
+#: views/config.php:36
+msgid "Receive email updates about Copyfight"
+msgstr "Recibe alertas sobre Derechos de Copyfight"
+
+#: views/config.php:40
+msgid "Reset API Key"
+msgstr "Resto clave de API"
+
+#: views/config.php:46
+msgid ""
+"These settings are triggered right after a post or page has been saved. This "
+"means your posts might not have been protected, yet. Manually save your "
+"individual posts and pages first."
+msgstr ""
+"Estos ajustes se activan inmediatamente después de una entrada o página ha "
+"sido guardado. Esto significa que sus mensajes no podrían haber sido "
+"protegidos, sin embargo. guardar manualmente sus entradas y páginas "
+"individuales en primer lugar."
+
+#: views/config.php:52 views/config.php:65
+msgid "Default status"
+msgstr "Estado predeterminado"
+
+#: views/config.php:71 views/config.php:84
+msgid "Default tags"
+msgstr "Estado etiquetas"
+
+#: views/config.php:90 views/config.php:103
+msgid "Default blur"
+msgstr "Estado difuminar"
+
+#: views/config.php:109 views/config.php:133
+msgid "Typeface"
+msgstr "Tipo de letra"
+
+#: views/config.php:142
+msgid "These settings have an immediate effect on your content."
+msgstr "Estos ajustes tienen un efecto inmediato sobre su contenido."
+
+#: views/config.php:148 views/config.php:161
+msgid "Content Delivery Network"
+msgstr "Content Delivery Network"
+
+#: views/config.php:167 views/config.php:180
+msgid "Use excerpt"
+msgstr "El uso del extracto"
+
+#: views/config.php:186
+msgid "FOUC Protection"
+msgstr "FOUC Protección"
+
+#: views/config.php:186
+msgid "(Flash Of Unstyled Content)"
+msgstr ""
+
+#: views/config.php:205 views/config.php:235
+msgid "Text selection"
+msgstr "La selección de texto"
+
+#: views/config.php:218
+msgid "Length"
+msgstr "Longitud"
+
+#: views/config.php:241 views/config.php:254
+msgid "Search Engine Visibility"
+msgstr "Visibilidad del motor de búsqueda"
+
+#: views/config.php:260 views/config.php:273
+msgid "Right click"
+msgstr "Botón derecho del mouse"
+
+#: views/config.php:279 views/config.php:292
+msgid "Print"
+msgstr "Imprimir"
+
+#: views/config.php:298 views/config.php:311
+msgid "Printscreen"
+msgstr ""
+
+#: views/config.php:317 views/config.php:327
+msgid "Copyright notice"
+msgstr "Aviso de copyright"
+
+#: views/config.php:343
+msgid "Widget settings"
+msgstr "Configuración del widget"
+
+#: views/config.php:343
+msgid "Click here"
+msgstr "Haga clic aquí"
+
+#: views/config.php:343
+msgid "to add and edit the Copyfight widget settings."
+msgstr "añadir y editar la configuración del widget Copyfight."
+
+#: views/config.php:347 views/config.php:360
+msgid "Debugging"
+msgstr "Depuración"
+
+#: views/config.php:379 views/config.php:392
+msgid "Console"
+msgstr ""
+
+#: views/notice.php:9
+msgid ""
+"<strong>Almost done</strong> - activate Copyfight and protect your content"
+msgstr ""
+"<Strong> Casi hecho </ strong> - activar Copyfight y proteger su contenido"
+
+#: views/plans.php:3
+msgid "Subscription plans"
+msgstr "Suscripciones"
+
+#: views/plans.php:41
+msgid ""
+"Our <a href=\"https://getcopyfight.com/fair-use-policy/\" target=\"_blank"
+"\">Fair Use Policy</a> applies to all promos and subscription plans."
+msgstr ""
+"Nuestra <a href=\"https://getcopyfight.com/fair-use-policy/\" target=\"_blank"
+"\">Fair Use Policy</a> se aplica a todas las promociones y planes de "
+"suscripción."
+
+#: widgets.php:14
+msgid "Widget for Copyfight."
+msgstr "Widget para Copyfight."
+
+#: widgets.php:47
+msgid "Title:"
+msgstr "Título:"
+
+#: widgets.php:52
+msgid "Logo:"
+msgstr ""
+
+#: widgets.php:54
+msgid "Color"
+msgstr "Color"
+
+#: widgets.php:55
+msgid "Dark"
+msgstr "Oscuro"
+
+#: widgets.php:56
+msgid "Light"
+msgstr "Claro"
+
+#~ msgid "Copyfight prevented copying this content."
+#~ msgstr "Copyfight impide la copia este contenido."
+
+#~ msgid "Disable right click"
+#~ msgstr "Deshabilitar el botón derecho"
+
+#~ msgid "Copyfight"
+#~ msgstr "Copyfight"
+
+#~ msgid "Copyfight Configuration"
+#~ msgstr "Copyfight Configuración"
+
+#~ msgid "Activate your Copyfight account"
+#~ msgstr "Active su cuenta Copyfight"
+
+#~ msgid ""
+#~ "These settings are triggered right after a post or page has been saved. "
+#~ "This means your posts have not been protected, yet. Manually save your "
+#~ "individual posts and pages first."
+#~ msgstr ""
+#~ "Estos ajustes se activan inmediatamente después de una entrada o página "
+#~ "ha sido guardado. Esto significa que sus mensajes no han sido protegidos, "
+#~ "sin embargo. guardar manualmente sus entradas y páginas individuales en "
+#~ "primer lugar."
+
+#~ msgid "Appreciate our work? Please consider making a donation."
+#~ msgstr "Apreciar su trabajo? Por favor considere hacer una donación."
+
+#~ msgid "Widget for Copyfight"
+#~ msgstr "Widget para Copyfight"
+
+#~ msgid ""
+#~ "There is no content copied because this is a Copyfight protected article."
+#~ msgstr ""
+#~ "No hay contenido copiado porque se trata de un artículo protegido por "
+#~ "Copyfight."
+
+#~ msgid ""
+#~ "There is no content copied because this is a Copyfight protected post."
+#~ msgstr "No hay contenido porque este es un Copyfight protegida puesto."
+
+#~ msgid ""
+#~ "There is no content because this is a <a target=\"_blank\" href=\"https://"
+#~ "getcopyfight.com/\">Copyfight</a> protected post."
+#~ msgstr ""
+#~ "No hay contenido porque este es un <a target=\"_blank\" href=\"https://"
+#~ "getcopyfight.com/\">Copyfight</a> protegida puesto."
+
+#~ msgid "Manually enter your API key or enter your email"
+#~ msgstr ""
+#~ "Introducir manualmente la clave de API o introducir su correo electrónico"
+
+#~ msgid "Default typeface"
+#~ msgstr "Tipo de letra predeterminado"
+
+#~ msgid "Referral program"
+#~ msgstr "Programa de referencia"
+
+#~ msgid ""
+#~ "Word of mouth is one of the most powerful ways that we have been able to "
+#~ "grow our business."
+#~ msgstr ""
+#~ "El boca a boca es una de las formas más potentes que hemos sido capaces "
+#~ "de hacer crecer nuestro negocio."
+
+#~ msgid ""
+#~ "So, when customers help us spread the word, we like to give something "
+#~ "back."
+#~ msgstr ""
+#~ "Por lo tanto, cuando los clientes nos ayudan a difundir la palabra, nos "
+#~ "gusta dar algo a cambio."
+
+#~ msgid "Share the link below with your friends."
+#~ msgstr "Comparte el enlace de abajo con tus amigos."
+
+#~ msgid ""
+#~ "All new customers that you refer, get a bonus when they create a "
+#~ "Copyfight account and you get a bonus too."
+#~ msgstr ""
+#~ "Todos los nuevos clientes que usted se refiere, reciben una bonificación "
+#~ "cuando crean una cuenta de derechos de autor y se obtiene una ventaja."
+
+#~ msgid "Your referral link:"
+#~ msgstr "Su vínculo de referencia:"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Compartir en Facebook"
+
+#~ msgid "Tweet on Twitter"
+#~ msgstr "Tweet en Twitter"
+
+#~ msgid "Earn a bonus by signing up for a Copyfight account today!"
+#~ msgstr "Gane un bono mediante la firma de una cuenta Copyfight hoy!"
+
+#~ msgid ""
+#~ "Hello, I have been using Copyfight to protect my content and they have "
+#~ "been awesome. Earn a bonus by signing up at the link below. Copyfight "
+#~ "gives you a bonus too!"
+#~ msgstr ""
+#~ "Hola, He estado usando derechos de autor para proteger el contenido de mi "
+#~ "y han sido impresionantes. Gane un bono por registrarse en el siguiente "
+#~ "enlace. Copyfight le da una ventaja también!"
+
+#~ msgid "Invite via email"
+#~ msgstr "Invite a través de correo electrónico"
+
+#~ msgid "Date"
+#~ msgstr "Fecha"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Added"
+#~ msgstr "Adicional"
+
+#~ msgid "Bonus"
+#~ msgstr "Prima"
+
+#~ msgid "Your bonus earnings will appear here."
+#~ msgstr "Sus ganancias de bonificación aparecerán aquí."
+
+#~ msgid ""
+#~ "By using your personal referral link, you accept the Terms and Conditions "
+#~ "for the Copyfight referral program"
+#~ msgstr ""
+#~ "Mediante el uso de su vínculo de referencia personal, usted acepta los "
+#~ "términos y condiciones para el programa de referencia Copyfight"
+
+#~ msgid "Failed to create cache folder..."
+#~ msgstr "No se pudo crear la carpeta de caché..."
